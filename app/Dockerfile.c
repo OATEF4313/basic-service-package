@@ -1,4 +1,4 @@
-FROM python:3.8.18-bookworm
+FROM python:3.13.0rc2-bookworm
 
 COPY service-c /app
 
